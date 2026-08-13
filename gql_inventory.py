@@ -662,7 +662,7 @@ def read_url_InventoryLevels(url):
     df = pd.read_json(url, lines=True)
 
     df2 = df
-    df2.fillna(method='ffill', inplace=True)
+    df2 = df2.ffill()
     df2 = df2[df2['quantities'].notna()].reset_index(drop=True)
 
     df_normalized1 = pd.json_normalize(df2['product'])
