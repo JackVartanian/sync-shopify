@@ -1,0 +1,37 @@
+# Credenciais - NUNCA subir
+.env
+
+# Dados gerados/estado em runtime
+capta_csv/*
+!capta_csv/.gitkeep
+shopify_csv/*
+!shopify_csv/.gitkeep
+!shopify_csv/metafield/
+shopify_csv/metafield/*
+!shopify_csv/metafield/.gitkeep
+!shopify_csv/sale/
+shopify_csv/sale/*
+!shopify_csv/sale/backup/
+shopify_csv/sale/backup/*
+!shopify_csv/sale/backup/.gitkeep
+
+# Logs
+log/*
+!log/estoque/
+log/estoque/*
+!log/estoque/.gitkeep
+!log/precos/
+log/precos/*
+!log/precos/.gitkeep
+*.log
+log_*.txt
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Sistema
+desktop.ini
+.DS_Store

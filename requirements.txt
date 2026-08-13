@@ -1,0 +1,8 @@
+pandas
+numpy
+pymssql
+requests
+aiohttp
+nest_asyncio
+python-dotenv
+openpyxl
