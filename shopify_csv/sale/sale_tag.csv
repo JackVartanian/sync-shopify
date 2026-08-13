@@ -1,0 +1,315 @@
+id;sku;title;price;compareAtPrice;inventoryQuantity;product_id;title.1;totalInventory;totalVariants;mediaCount;sku_2
+gid://shopify/ProductVariant/46330657636647;BR04014T;P;24500.0;17000.0;7;gid://shopify/Product/8572968665383;Brinco 15 Anos - P | Ouro Branco 18K E Diamantes;7.0;1.0;3;BR04014T
+gid://shopify/ProductVariant/46331460780327;BR04355T;M;25500.0;19700.0;1;gid://shopify/Product/8573060677927;Brinco 15 Anos - M | Ouro Branco 18K Com Ródio Negro E Diamantes Negros;1.0;1.0;4;BR04355T
+gid://shopify/ProductVariant/46332394570023;CL04023;Default Title;5500.0;3400.0;7;gid://shopify/Product/8573203317031;Colar Amore De Ouro Amarelo 18K;7.0;1.0;3;CL04023
+gid://shopify/ProductVariant/46332398502183;CL04025;Default Title;5500.0;3400.0;7;gid://shopify/Product/8573203808551;Colar Amore De Ouro Amarelo 18K;7.0;1.0;3;CL04025
+gid://shopify/ProductVariant/46332404007207;CL04022;Default Title;5500.0;3400.0;1;gid://shopify/Product/8573204300071;Colar Amore De Ouro Branco 18K Com Ródio Negro;1.0;1.0;3;CL04022
+gid://shopify/ProductVariant/46332847554855;BR05812T;G;24500.0;15200.0;6;gid://shopify/Product/8573252960551;Brinco Avantgarde | Ouro Branco 18K E Diamantes;6.0;1.0;3;BR05812T
+gid://shopify/ProductVariant/46334861377831;BR05932T;G;3010.0;4300.0;2;gid://shopify/Product/8573469917479;Brinco Blossom - G | Prata Com Ródio Negro E Safira;2.0;1.0;2;BR05932T
+gid://shopify/ProductVariant/46334865015079;BR05933T;P;3500.0;3500.0;1;gid://shopify/Product/8573470408999;Brinco Blossom - P | Prata Com Ródio Negro E Safira;1.0;1.0;3;BR05933T
+gid://shopify/ProductVariant/46335074533671;BR06379T;Default Title;25500.0;22000.0;7;gid://shopify/Product/8573492003111;Brinco Celebrate | Ouro Amarelo 18K e Diamantes;7.0;1.0;4;BR06379T
+gid://shopify/ProductVariant/46335081349415;BR06381T;Default Title;5900.0;4500.0;8;gid://shopify/Product/8573492592935;Brinco Celebrate Plus Solitário | Ouro Amarelo 18K e Diamantes;8.0;1.0;3;BR06381T
+gid://shopify/ProductVariant/46335096095015;BR06301T;Default Title;5900.0;4500.0;7;gid://shopify/Product/8573493870887;Brinco Celebrate Plus Unitário | Ouro Branco 18K e Diamante;7.0;1.0;3;BR06301T
+gid://shopify/ProductVariant/46335101468967;BR06302T;Default Title;13900.0;9400.0;6;gid://shopify/Product/8573494231335;Brinco Celebrate Rock | Ouro Branco 18K e Diamantes;6.0;1.0;3;BR06302T
+gid://shopify/ProductVariant/46335110545703;BR06376T;Default Title;43900.0;38000.0;6;gid://shopify/Product/8573495181607;Brinco Celebrate Duo | Ouro Branco 18K e Diamantes;6.0;1.0;3;BR06376T
+gid://shopify/ProductVariant/46335121588519;BR06388T;Default Title;57500.0;50000.0;1;gid://shopify/Product/8573495968039;Brinco Celebrate | Ouro Amarelo 18K com Diamantes e Esmeraldas;1.0;1.0;2;BR06388T
+gid://shopify/ProductVariant/46335235391783;BR05407T;Default Title;1800.0;1800.0;6;gid://shopify/Product/8573506322727;Brinco Ear Cuff Chain | Prata Com Ouro Amarelo 18k;6.0;1.0;4;BR05407T
+gid://shopify/ProductVariant/46335239291175;BR05602T;Default Title;1400.0;1400.0;7;gid://shopify/Product/8573506617639;Brinco Argola Chain - Mini | Prata Com Ouro Amarelo 18k;7.0;1.0;5;BR05602T
+gid://shopify/ProductVariant/46335240372519;BR05399T;Default Title;1250.0;1250.0;11;gid://shopify/Product/8573506715943;Brinco Chain - Unitário | Prata Com Ródio Negro;11.0;1.0;3;BR05399T
+gid://shopify/ProductVariant/46335245091111;BR05412T;P;1600.0;1600.0;1;gid://shopify/Product/8573507240231;Brinco Argola Chain - P | Prata Com Ródio Negro;1.0;1.0;4;BR05412T
+gid://shopify/ProductVariant/46335247352103;CL04178;P;6200.0;6200.0;6;gid://shopify/Product/8573507469607;Colar Chain - P | Prata Com Ouro Amarelo 18K;6.0;1.0;3;CL04178
+gid://shopify/ProductVariant/46335251644711;CL04182;G;8500.0;8500.0;9;gid://shopify/Product/8573507830055;Colar Chain - G | Prata Com Ouro Amarelo 18K;9.0;1.0;5;CL04182
+gid://shopify/ProductVariant/46335260197159;BR05606T;Default Title;980.0;980.0;8;gid://shopify/Product/8573508452647;Piercing Chain | Prata Com Ouro Amarelo 18K;8.0;1.0;4;BR05606T
+gid://shopify/ProductVariant/46335263408423;PU01791T;P;3700.0;3700.0;7;gid://shopify/Product/8573508714791;Pulseira Chain De Prata Com Ouro Amarelo - Elo P;21.0;3.0;5;PU01791T
+gid://shopify/ProductVariant/46335274320167;PU01805T;G;4900.0;4900.0;9;gid://shopify/Product/8573509730599;Pulseira Chain De Prata Com Ouro Amarelo - Elo G;9.0;1.0;3;PU01805T
+gid://shopify/ProductVariant/46335277662503;PU01792T;P;3700.0;3700.0;0;gid://shopify/Product/8573509992743;Pulseira Chain De Prata Com Ródio Negro - Elo P;7.0;3.0;3;PU01792T
+gid://shopify/ProductVariant/46335289983271;PU01806T;G;4900.0;4900.0;2;gid://shopify/Product/8573510975783;Pulseira Chain De Prata Com Ródio Negro - Elo G;2.0;1.0;3;PU01806T
+gid://shopify/ProductVariant/46336085983527;BR05603T;Default Title;9500.0;5900.0;6;gid://shopify/Product/8573576937767;Brinco Argola Chain Lovers - Mini | Ouro Branco 18K Com Ródio Negro E Diamantes;6.0;1.0;3;BR05603T
+gid://shopify/ProductVariant/46336099909927;BR05778T;Default Title;4900.0;4200.0;6;gid://shopify/Product/8573578215719;Piercing Chain Lovers | Ouro Branco 18K Com Ródio Negro E Diamantes Negros;6.0;1.0;2;BR05778T
+gid://shopify/ProductVariant/46336104169767;BR05779T;Default Title;7500.0;6500.0;6;gid://shopify/Product/8573578608935;Piercing Chain Lovers | Ouro Branco 18K Com Ródio Negro E Esmeraldas;6.0;1.0;3;BR05779T
+gid://shopify/ProductVariant/46336123502887;CL01450;Default Title;8900.0;6500.0;6;gid://shopify/Product/8573580116263;Colar Choker De Ouro Amarelo 18K;6.0;1.0;4;CL01450
+gid://shopify/ProductVariant/46336136773927;CL01449;Default Title;9900.0;6700.0;6;gid://shopify/Product/8573581426983;Colar Choker De Ouro Branco 18K Com Ródio Negro E Diamante;6.0;1.0;3;CL01449
+gid://shopify/ProductVariant/46336149192999;CL01448;Default Title;10900.0;7400.0;6;gid://shopify/Product/8573582901543;Colar Choker De Ouro Branco 18K E Diamante;6.0;1.0;3;CL01448
+gid://shopify/ProductVariant/46336152437031;CL01452;Default Title;7900.0;5600.0;6;gid://shopify/Product/8573583196455;Colar Choker De Ouro Branco 18K E Diamante;6.0;1.0;4;CL01452
+gid://shopify/ProductVariant/46336245661991;BR02400T;Default Title;9500.0;5200.0;6;gid://shopify/Product/8573591617831;Brinco Clássico | Ouro Amarelo 18K E Diamantes;6.0;1.0;3;BR02400T
+gid://shopify/ProductVariant/46336245727527;BR02108T;Default Title;9500.0;5200.0;6;gid://shopify/Product/8573591716135;Brinco Clássico | Ouro Branco 18K E Diamantes;6.0;1.0;2;BR02108T
+gid://shopify/ProductVariant/46336246710567;BR02120T;Default Title;9500.0;5200.0;6;gid://shopify/Product/8573591781671;Brinco Clássico | Ouro Rosa 18K E Diamantes;6.0;1.0;2;BR02120T
+gid://shopify/ProductVariant/46336250675495;CL01000;Default Title;6900.0;3400.0;7;gid://shopify/Product/8573592142119;Colar Clássico De Ouro Branco 18K Com Ródio Negro E Diamante Negro;7.0;1.0;2;CL01000
+gid://shopify/ProductVariant/46336253985063;CL00999;Default Title;6900.0;3400.0;6;gid://shopify/Product/8573592568103;Colar Clássico De Ouro Branco 18K E Diamante Negro;6.0;1.0;2;CL00999
+gid://shopify/ProductVariant/46336258277671;CO01318;Default Title;5500.0;3700.0;6;gid://shopify/Product/8573593059623;Corrente Clássico De Ouro Amarelo 18K;6.0;1.0;3;CO01318
+gid://shopify/ProductVariant/46336259981607;CO01316;Default Title;5500.0;3700.0;2;gid://shopify/Product/8573593288999;Corrente Clássico De Ouro Branco 18K Com Ródio Negro;2.0;1.0;3;CO01316
+gid://shopify/ProductVariant/46336262603047;CO01315;Default Title;5500.0;3700.0;1;gid://shopify/Product/8573593682215;Corrente Clássico De Ouro Branco 18K;1.0;1.0;3;CO01315
+gid://shopify/ProductVariant/46336263815463;CO01313;Default Title;3500.0;2300.0;7;gid://shopify/Product/8573593846055;Corrente Clássico De Ouro Rosa 18K;7.0;1.0;3;CO01313
+gid://shopify/ProductVariant/46336265126183;CO01317;Default Title;4500.0;3700.0;4;gid://shopify/Product/8573594009895;Corrente Clássico De Ouro Rosa 18K;4.0;1.0;3;CO01317
+gid://shopify/ProductVariant/46336266240295;BR02212T;Default Title;3900.0;2300.0;6;gid://shopify/Product/8573594140967;Piercing Clássico De Ouro Amarelo 18K E Diamante;6.0;1.0;3;BR02212T
+gid://shopify/ProductVariant/46336268009767;BR03682T;Default Title;3500.0;1950.0;6;gid://shopify/Product/8573594435879;Piercing Clássico De Ouro Branco 18K Com Ródio Negro E Diamante;6.0;1.0;3;BR03682T
+gid://shopify/ProductVariant/46336268599591;BR02192T;Default Title;3900.0;2300.0;6;gid://shopify/Product/8573594534183;Piercing Clássico De Ouro Branco 18K E Diamante;6.0;1.0;3;BR02192T
+gid://shopify/ProductVariant/46336268632359;PU01082T;Default Title;2900.0;1850.0;8;gid://shopify/Product/8573594566951;Pulseira Clássico De Ouro Amarelo 18K E Safira;8.0;1.0;3;PU01082T
+gid://shopify/ProductVariant/46336269353255;PU01278T;Default Title;2900.0;1650.0;7;gid://shopify/Product/8573594763559;Pulseira Clássico De Ouro Branco 18K Com Ródio Negro E Diamante Negro;7.0;1.0;3;PU01278T
+gid://shopify/ProductVariant/46336269943079;PU01314T;Default Title;2900.0;1850.0;6;gid://shopify/Product/8573594861863;Pulseira Clássico De Ouro Branco 18K Com Ródio Negro E Safira;6.0;1.0;3;PU01314T
+gid://shopify/ProductVariant/46336270631207;PU01081T;Default Title;2900.0;1850.0;7;gid://shopify/Product/8573595091239;Pulseira Clássico De Ouro Branco 18K E Safira;7.0;1.0;3;PU01081T
+gid://shopify/ProductVariant/46336274202919;PU01074T;Default Title;2900.0;1850.0;9;gid://shopify/Product/8573595418919;Pulseira Clássico De Ouro Rosa 18K E Safira;9.0;1.0;3;PU01074T
+gid://shopify/ProductVariant/46336295665959;BR04856T;Default Title;1900.0;1100.0;6;gid://shopify/Product/8573597548839;Brinco Especial | Ouro Amarelo 18K E Esmeralda;6.0;1.0;2;BR04856T
+gid://shopify/ProductVariant/46336296485159;BR04857T;Default Title;3500.0;1600.0;7;gid://shopify/Product/8573597647143;Brinco Especial De Ouro Amarelo 18K E Esmeralda;7.0;1.0;2;BR04857T
+gid://shopify/ProductVariant/46336297926951;BR05616T;Default Title;1900.0;1100.0;6;gid://shopify/Product/8573597810983;Brinco Especial De Ouro Branco 18K Com Ródio Negro E Esmeralda;6.0;1.0;2;BR05616T
+gid://shopify/ProductVariant/46336306708775;BR04221T;Default Title;5900.0;5200.0;7;gid://shopify/Product/8573598794023;Brinco Especial De Ouro Branco 18K E Diamante Negro;7.0;1.0;1;BR04221T
+gid://shopify/ProductVariant/46336311230759;BR06298T;Default Title;4500.0;3700.0;1;gid://shopify/Product/8573599351079;Brinco Especial De Ouro Branco 18K E Diamante Negro;1.0;1.0;0;BR06298T
+gid://shopify/ProductVariant/46336405995815;BR03449T;Default Title;2900.0;2000.0;6;gid://shopify/Product/8573608722727;Brinco Especial De Ouro Branco 18K E Diamante Solitário;6.0;1.0;3;BR03449T
+gid://shopify/ProductVariant/46336406126887;BR05301T;Default Title;1900.0;1400.0;6;gid://shopify/Product/8573608788263;Brinco Especial De Ouro Branco 18K E Diamante Solitário;6.0;1.0;3;BR05301T
+gid://shopify/ProductVariant/46336536477991;CL00331;P;5900.0;5200.0;6;gid://shopify/Product/8573628023079;Colar Algema De Ouro Amarelo 18K E Diamante - P;6.0;1.0;4;CL00331
+gid://shopify/ProductVariant/46336537592103;CO0866;M;6900.0;5700.0;6;gid://shopify/Product/8573628252455;Colar Algema De Ouro Amarelo 18K E Diamante - M;6.0;1.0;4;CO0866
+gid://shopify/ProductVariant/46336537854247;CL00098;M;5900.0;4800.0;6;gid://shopify/Product/8573628481831;Colar Algema De Ouro Branco 18K Com Ródio Negro E Diamante - M;6.0;1.0;3;CL00098
+gid://shopify/ProductVariant/46336540541223;CL00730;P;5500.0;4400.0;6;gid://shopify/Product/8573628940583;Colar Algema De Ouro Branco 18K Com Ródio Negro E Diamante - P;6.0;1.0;3;CL00730
+gid://shopify/ProductVariant/46336545063207;CO0857;M;6900.0;5700.0;6;gid://shopify/Product/8573629727015;Colar Algema De Ouro Branco 18K E Diamante - M;6.0;1.0;4;CO0857
+gid://shopify/ProductVariant/46336546799911;CL00330;P;5900.0;5200.0;6;gid://shopify/Product/8573629956391;Colar Algema De Ouro Rosa 18K E Diamante - P;6.0;1.0;4;CL00330
+gid://shopify/ProductVariant/46336549552423;PU01336T;P;4500.0;3700.0;6;gid://shopify/Product/8573630251303;Pulseira Algeminha De Ouro Branco 18K Com Ródio Negro E Diamante - P;6.0;1.0;3;PU01336T
+gid://shopify/ProductVariant/46336551715111;PU01333T;P;4500.0;3700.0;7;gid://shopify/Product/8573630546215;Pulseira Algeminha De Ouro Branco 18K E Diamante - P;7.0;1.0;3;PU01333T
+gid://shopify/ProductVariant/46336553550119;PU01334T;P;4500.0;3700.0;9;gid://shopify/Product/8573630939431;Pulseira Algeminha De Ouro Rosa 18K E Diamante - P;9.0;1.0;4;PU01334T
+gid://shopify/ProductVariant/46336572752167;BR04304T;Default Title;5500.0;3200.0;6;gid://shopify/Product/8573634642215;Brinco First Diamond De Ouro Branco 18K Com Ródio Negro E Diamante;6.0;1.0;4;BR04304T
+gid://shopify/ProductVariant/46336573833511;CL01285;Default Title;8900.0;5500.0;7;gid://shopify/Product/8573635428647;Colar First Diamond De Ouro Branco 18K Com Ródio Negro E Diamante;7.0;1.0;5;CL01285
+gid://shopify/ProductVariant/46336574161191;CL01286;Default Title;8900.0;5500.0;6;gid://shopify/Product/8573635723559;Colar First Diamond De Ouro Rosa 18K E Diamante;6.0;1.0;4;CL01286
+gid://shopify/ProductVariant/46336588054823;PI01064;Default Title;2800.0;1900.0;6;gid://shopify/Product/8573637853479;Pingente Pequeno De Ouro Amarelo 18K E Diamante;6.0;1.0;3;PI01064
+gid://shopify/ProductVariant/46336590315815;PI01065;Default Title;2400.0;1650.0;8;gid://shopify/Product/8573638148391;Pingente Pequeno De Ouro Amarelo 18K E Diamante;8.0;1.0;3;PI01065
+gid://shopify/ProductVariant/46336597393703;PI01062;Default Title;2800.0;1900.0;7;gid://shopify/Product/8573639262503;Pingente Pequeno De Ouro Branco 18K E Diamante;7.0;1.0;3;PI01062
+gid://shopify/ProductVariant/46336599720231;PI01063;Default Title;2400.0;1650.0;8;gid://shopify/Product/8573639622951;Pingente Pequeno De Ouro Branco 18K E Diamante;8.0;1.0;3;PI01063
+gid://shopify/ProductVariant/46336613384487;BR05791T;Default Title;2200.0;2200.0;8;gid://shopify/Product/8573641785639;Brinco Protea De Prata Com Ouro Rosa;8.0;1.0;4;BR05791T
+gid://shopify/ProductVariant/46336643760423;BR06120T;P;4700.0;4200.0;8;gid://shopify/Product/8573647487271;Brinco Leopardo De Prata Com Ouro Amarelo - P;8.0;1.0;5;BR06120T
+gid://shopify/ProductVariant/46336645759271;BR06121T;M;5400.0;4900.0;7;gid://shopify/Product/8573648044327;Brinco Leopardo De Prata Com Ouro Amarelo - M;7.0;1.0;5;BR06121T
+gid://shopify/ProductVariant/46336646086951;BR06122T;G;5900.0;5400.0;6;gid://shopify/Product/8573648372007;Brinco Leopardo De Prata Com Ouro Amarelo - G;6.0;1.0;5;BR06122T
+gid://shopify/ProductVariant/46336653000999;BR04822T;Default Title;32500.0;17800.0;7;gid://shopify/Product/8573650043175;Brinco Love Ny De Ouro Amarelo 18K E Diamante;7.0;1.0;3;BR04822T
+gid://shopify/ProductVariant/46336654967079;BR04824T;Default Title;16500.0;10500.0;6;gid://shopify/Product/8573650239783;Brinco Ear Cuff Love Ny | Ouro Amarelo 18K;6.0;1.0;3;BR04824T
+gid://shopify/ProductVariant/46336656113959;BR04833T;Default Title;28900.0;21000.0;6;gid://shopify/Product/8573650436391;Brinco Ear Cuff Love Ny | Ouro Amarelo 18K;6.0;1.0;3;BR04833T
+gid://shopify/ProductVariant/46355364708647;BR05269T;P;17500.0;15000.0;1;gid://shopify/Product/8577718092071;Brinco Lifestyle De Ouro Amarelo 18K - P;1.0;1.0;2;BR05269T
+gid://shopify/ProductVariant/46355365134631;BR05254T;Default Title;16500.0;12100.0;6;gid://shopify/Product/8577718288679;Brinco Lifestyle De Ouro Branco 18K Com Ródio Negro E Diamante Negro;6.0;1.0;2;BR05254T
+gid://shopify/ProductVariant/46355368444199;BR05280T;Default Title;2900.0;2600.0;1;gid://shopify/Product/8577720287527;Piercing Lifestyle De Ouro Branco 18K Com Ródio Negro E Diamante;1.0;1.0;2;BR05280T
+gid://shopify/ProductVariant/46355368509735;BR05283T;Default Title;2900.0;2550.0;4;gid://shopify/Product/8577720353063;Piercing Lifestyle De Ouro Branco 18K Com Ródio Negro E Diamante;4.0;1.0;2;BR05283T
+gid://shopify/ProductVariant/46355368542503;BR05300T;Default Title;3430.0;4900.0;2;gid://shopify/Product/8577720385831;Piercing Lifestyle De Ouro Branco 18K Com Ródio Negro E Diamante;2.0;1.0;2;BR05300T
+gid://shopify/ProductVariant/46355371753767;BR04382T;Default Title;2200.0;2200.0;6;gid://shopify/Product/8577722450215;Brinco Orquidea De Prata Com Ouro Rosa E Diamante;6.0;1.0;2;BR04382T
+gid://shopify/ProductVariant/46355371852071;BR04385T;Default Title;4200.0;4200.0;7;gid://shopify/Product/8577722548519;Brinco Orquidea De Prata Com Ouro Rosa E Diamante;7.0;1.0;2;BR04385T
+gid://shopify/ProductVariant/46355371950375;BR04381T;Default Title;1950.0;1950.0;6;gid://shopify/Product/8577722679591;Brinco Orquidea De Prata Com Ródio Negro E Diamante;6.0;1.0;2;BR04381T
+gid://shopify/ProductVariant/46355372081447;BR04384T;Default Title;3800.0;3800.0;6;gid://shopify/Product/8577722777895;Brinco Orquidea De Prata Com Ródio Negro E Diamante;6.0;1.0;2;BR04384T
+gid://shopify/ProductVariant/46355373031719;PU01661T;M;4850.0;4850.0;5;gid://shopify/Product/8577723072807;Pulseira Orquidea De Prata Com Ouro Rosa E Diamante;17.0;3.0;2;PU01661T
+gid://shopify/ProductVariant/46355391807783;BR05443T;Default Title;1900.0;1700.0;6;gid://shopify/Product/8577728413991;Brinco Piscine De Ouro Amarelo 18K - Unitário;6.0;1.0;2;BR05443T
+gid://shopify/ProductVariant/46355392069927;BR05444T;Default Title;2500.0;1800.0;6;gid://shopify/Product/8577728512295;Brinco Piscine De Ouro Amarelo 18K - Unitário;6.0;1.0;2;BR05444T
+gid://shopify/ProductVariant/46355392168231;BR05449T;Default Title;6500.0;4500.0;7;gid://shopify/Product/8577728643367;Brinco Ear Cuff Piscine | Ouro Branco 18K Com Ródio Negro E Diamantes;7.0;1.0;2;BR05449T
+gid://shopify/ProductVariant/46355392495911;BR05451T;Default Title;2900.0;2200.0;6;gid://shopify/Product/8577728905511;Brinco Piscine De Ouro Branco 18K Com Ródio Negro E Diamante - Unitário;6.0;1.0;2;BR05451T
+gid://shopify/ProductVariant/46355393970471;BR05448T;Default Title;7900.0;5400.0;7;gid://shopify/Product/8577729200423;Brinco Ear Cuff Piscine | Ouro Branco 18K E Diamantes;7.0;1.0;2;BR05448T
+gid://shopify/ProductVariant/46355394134311;BR05450T;Default Title;2450.0;3500.0;8;gid://shopify/Product/8577729364263;Brinco Piscine De Ouro Branco 18K E Diamante - Unitário;8.0;1.0;2;BR05450T
+gid://shopify/ProductVariant/46355394232615;BR05452T;Default Title;3500.0;2700.0;7;gid://shopify/Product/8577729462567;Brinco Piscine De Ouro Branco 18K E Diamante - Unitário;7.0;1.0;2;BR05452T
+gid://shopify/ProductVariant/46355394429223;CL04197;Default Title;7900.0;5900.0;7;gid://shopify/Product/8577729659175;Colar Piscine De Ouro Amarelo 18K;7.0;1.0;2;CL04197
+gid://shopify/ProductVariant/46355394920743;PU01808T;Default Title;2500.0;1700.0;6;gid://shopify/Product/8577730150695;Pulseira Piscine De Ouro Amarelo 18K;6.0;1.0;3;PU01808T
+gid://shopify/ProductVariant/46355414450471;BR03453T;Default Title;7500.0;3800.0;7;gid://shopify/Product/8577738015015;Brinco Tlj De Ouro Amarelo 18K E Diamante;7.0;1.0;1;BR03453T
+gid://shopify/ProductVariant/46355414614311;BR02140T;Default Title;7500.0;3800.0;7;gid://shopify/Product/8577738178855;Brinco Tlj De Ouro Branco 18K E Diamante;7.0;1.0;2;BR02140T
+gid://shopify/ProductVariant/46355414712615;BR01992T;Default Title;7500.0;3800.0;6;gid://shopify/Product/8577738277159;Brinco Tlj De Ouro Rosa 18K E Diamante;6.0;1.0;1;BR01992T
+gid://shopify/ProductVariant/46355414941991;CL01040;Default Title;6500.0;4200.0;7;gid://shopify/Product/8577738506535;Colar Tlj De Ouro Amarelo 18K E Diamante;7.0;1.0;3;CL01040
+gid://shopify/ProductVariant/46355415236903;CO0993;Default Title;6500.0;4200.0;8;gid://shopify/Product/8577738801447;Colar Tlj De Ouro Rosa 18K E Diamante;8.0;1.0;2;CO0993
+gid://shopify/ProductVariant/46355437158695;BR05031T;Default Title;3300.0;3300.0;7;gid://shopify/Product/8577746141479;Brinco Riviera De Prata Com Ouro Amarelo;7.0;1.0;4;BR05031T
+gid://shopify/ProductVariant/46355437289767;BR05033T;Default Title;2900.0;2900.0;6;gid://shopify/Product/8577746272551;Brinco Riviera De Prata Com Ouro Amarelo;6.0;1.0;4;BR05033T
+gid://shopify/ProductVariant/46355452363047;BR04913T;Default Title;56500.0;39000.0;6;gid://shopify/Product/8577751941415;Brinco Ear Cuff Voyeur | Ouro Branco 18K E Diamantes;6.0;1.0;4;BR04913T
+gid://shopify/ProductVariant/46355473727783;BR03065T;Default Title;13900.0;10400.0;6;gid://shopify/Product/8577761902887;Brinco Ear Cuff Universo | Ouro Branco 18K Com Ródio Negro E Safiras;6.0;1.0;3;BR03065T
+gid://shopify/ProductVariant/46355477594407;BR03150T;Default Title;35900.0;26000.0;6;gid://shopify/Product/8577762427175;Brinco Ear Cuff Universo | Ouro Branco 18K Com Ródio Negro E Diamantes;6.0;1.0;3;BR03150T
+gid://shopify/ProductVariant/46355478184231;BR04906T;Default Title;42900.0;33000.0;6;gid://shopify/Product/8577763016999;Brinco Ear Cuff Universo | Ouro Branco 18K E Diamantes;6.0;1.0;3;BR04906T
+gid://shopify/ProductVariant/46355489784103;BR05598T;Default Title;1250.0;1250.0;3;gid://shopify/Product/8577767112999;Brinco White Chain - Unitário | Prata Com Ouro Branco 18k;3.0;1.0;3;BR05598T
+gid://shopify/ProductVariant/46355494895911;BR06068T;P;8500.0;7200.0;6;gid://shopify/Product/8577769308455;Brinco We Love Sapphire De Ouro Branco 18K Com Ródio Negro E Safira - P;6.0;1.0;4;BR06068T
+gid://shopify/ProductVariant/46355505545511;BR06061T;P;12900.0;9500.0;6;gid://shopify/Product/8577771208999;Brinco We Love Sapphire De Ouro Rosa 18K E Diamante - P;6.0;1.0;4;BR06061T
+gid://shopify/ProductVariant/46355507872039;BR05983T;G;2400.0;2400.0;10;gid://shopify/Product/8577772454183;Brinco Dois Elos Pop Chain - G | Prata Com Ouro Amarelo 18K;10.0;1.0;3;BR05983T
+gid://shopify/ProductVariant/46355508166951;BR05987T;Default Title;1800.0;1800.0;13;gid://shopify/Product/8577772618023;Brinco Dois Elos Pop Chain - P | Prata Com Ouro Amarelo 18k;13.0;1.0;3;BR05987T
+gid://shopify/ProductVariant/46355508265255;BR05991T;Default Title;1900.0;1900.0;6;gid://shopify/Product/8577772716327;Brinco Ear Hook Pop Chain | Prata Com Ouro Amarelo 18K;6.0;1.0;3;BR05991T
+gid://shopify/ProductVariant/46355508396327;BR05995T;Default Title;1400.0;1400.0;6;gid://shopify/Product/8577772814631;Brinco Argola Pop Chain - Mini | Prata Com Ouro Amarelo 18K;6.0;1.0;3;BR05995T
+gid://shopify/ProductVariant/46355511148839;CL04429;Default Title;3900.0;3900.0;7;gid://shopify/Product/8577773699367;Colar Pop Chain | Prata Com Ouro Amarelo 18K;7.0;1.0;3;CL04429
+gid://shopify/ProductVariant/46355511476519;BR06004T;Default Title;980.0;980.0;6;gid://shopify/Product/8577773928743;Piercing Pop Chain | Prata Com Ouro Amarelo 18K;6.0;1.0;2;BR06004T
+gid://shopify/ProductVariant/46355513213223;PI01345;P;665.0;950.0;6;gid://shopify/Product/8577774289191;Pingente Pop Chain De Prata Com Ouro Amarelo - P;6.0;1.0;4;PI01345
+gid://shopify/ProductVariant/46355513737511;PI01342;G;840.0;1200.0;3;gid://shopify/Product/8577774518567;Pingente Pop Chain De Prata Com Ródio Negro - G;3.0;1.0;4;PI01342
+gid://shopify/ProductVariant/46355513901351;PI01346;P;560.0;800.0;4;gid://shopify/Product/8577774649639;Pingente Pop Chain De Prata Com Ródio Negro - P;4.0;1.0;4;PI01346
+gid://shopify/ProductVariant/46355514261799;PI01351;Default Title;700.0;1000.0;4;gid://shopify/Product/8577774780711;Pingente Pop Chain De Prata Com Ródio Negro;4.0;1.0;4;PI01351
+gid://shopify/ProductVariant/46355517276455;BR05782T;Default Title;3100.0;3100.0;6;gid://shopify/Product/8577776189735;Brinco Rock&Hot De Prata Com Ouro Amarelo;6.0;1.0;3;BR05782T
+gid://shopify/ProductVariant/46355517669671;BR05783T;Default Title;3500.0;3500.0;6;gid://shopify/Product/8577776320807;Brinco Rock&Hot De Prata Com Ouro Amarelo E Ágata;6.0;1.0;2;BR05783T
+gid://shopify/ProductVariant/46355517735207;BR05784T;Default Title;2650.0;2650.0;7;gid://shopify/Product/8577776386343;Brinco Rock&Hot De Prata Com Ouro Amarelo;7.0;1.0;2;BR05784T
+gid://shopify/ProductVariant/46355519504679;BR06170T;Default Title;10900.0;9500.0;6;gid://shopify/Product/8577778090279;Brinco Rock Star | Ouro Branco 18K Com Ródio Negro E Diamantes;6.0;1.0;2;BR06170T
+gid://shopify/ProductVariant/46355519635751;BR06171T;Default Title;9500.0;8000.0;6;gid://shopify/Product/8577778221351;Brinco Rock Star | Ouro Branco 18K Com Ródio Negro, Diamantes E Esmeraldas;6.0;1.0;2;BR06171T
+gid://shopify/ProductVariant/46355520192807;BR06173T;Default Title;8500.0;7000.0;6;gid://shopify/Product/8577778581799;Brinco Rock Star | Ouro Branco 18K Com Ródio Negro, Diamantes e Safiras;6.0;1.0;2;BR06173T
+gid://shopify/ProductVariant/46355521700135;BR06158T;P;10900.0;9500.0;6;gid://shopify/Product/8577779630375;Brinco Ear Cuff Rock Star - P | Ouro Branco 18K e Diamantes;6.0;1.0;2;BR06158T
+gid://shopify/ProductVariant/46355606274343;BR05350T;P;2100.0;1700.0;6;gid://shopify/Product/8577837564199;Brinco Pop De Prata Com Ouro Amarelo - P;6.0;1.0;4;BR05350T
+gid://shopify/ProductVariant/46355606536487;BR05351T;M;2700.0;2200.0;10;gid://shopify/Product/8577837793575;Brinco Pop De Prata Com Ouro Amarelo - M;10.0;1.0;5;BR05351T
+gid://shopify/ProductVariant/46355606831399;BR05352T;G;3500.0;2900.0;10;gid://shopify/Product/8577838088487;Brinco Pop De Prata Com Ouro Amarelo - G;10.0;1.0;4;BR05352T
+gid://shopify/ProductVariant/46355607028007;BR05353T;Default Title;3100.0;2550.0;10;gid://shopify/Product/8577838285095;Brinco Pop De Prata Com Ouro Amarelo;10.0;1.0;4;BR05353T
+gid://shopify/ProductVariant/46355607814439;CO01278;Default Title;1300.0;1100.0;11;gid://shopify/Product/8577838448935;Corrente Pop De Prata Com Ouro Amarelo, 60cm.;11.0;1.0;3;CO01278
+gid://shopify/ProductVariant/46355607912743;CO01279;Default Title;1500.0;1300.0;15;gid://shopify/Product/8577838547239;Corrente Pop De Prata Com Ouro Amarelo, 80cm.;15.0;1.0;3;CO01279
+gid://shopify/ProductVariant/46355608142119;CO01280;Default Title;1700.0;1450.0;12;gid://shopify/Product/8577838711079;Corrente Pop De Prata Com Ouro Amarelo, 60cm.;12.0;1.0;3;CO01280
+gid://shopify/ProductVariant/46355608273191;CO01281;Default Title;1900.0;1700.0;7;gid://shopify/Product/8577838842151;Corrente Pop De Prata Com Ouro Amarelo, 80cm.;7.0;1.0;3;CO01281
+gid://shopify/ProductVariant/46355608404263;CO01282;Default Title;1100.0;880.0;9;gid://shopify/Product/8577838973223;Corrente Pop De Prata Com Ouro Amarelo, 50Cm.;9.0;1.0;2;CO01282
+gid://shopify/ProductVariant/46355630096679;BR06544T;Default Title;3400.0;3400.0;9;gid://shopify/Product/8577852866855;Brinco Mare | Prata com Ouro Amarelo 18K e Pérolas;9.0;1.0;5;BR06544T
+gid://shopify/ProductVariant/46355630719271;BR06545T;Default Title;2600.0;2600.0;13;gid://shopify/Product/8577852965159;Brinco Mare | Prata com Ouro Amarelo 18K;13.0;1.0;3;BR06545T
+gid://shopify/ProductVariant/46355633602855;BR06547T;Default Title;4500.0;3900.0;8;gid://shopify/Product/8577853358375;Brinco Mare Duplo Maxi | Prata com ouro amarelo 18K;8.0;1.0;4;BR06547T
+gid://shopify/ProductVariant/46355634782503;BR06549T;Default Title;1200.0;1200.0;6;gid://shopify/Product/8577853587751;Brinco Mare - Unitário | Prata com Ouro Amarelo e Pérola;6.0;1.0;3;BR06549T
+gid://shopify/ProductVariant/46355635994919;BR06559T;Default Title;1900.0;1900.0;16;gid://shopify/Product/8577853751591;Brinco Mare Mini | Prata com Ouro Amarelo 18k;16.0;1.0;4;BR06559T
+gid://shopify/ProductVariant/46355636060455;BR06560T;Default Title;490.0;490.0;11;gid://shopify/Product/8577853817127;Brinco Mare - Unitário | Prata com Ouro Amarelo 18K;11.0;1.0;3;BR06560T
+gid://shopify/ProductVariant/46355636191527;CL04619;P;2200.0;2200.0;13;gid://shopify/Product/8577853948199;Colar Mare - P | Prata com Ouro Amarelo 18K;13.0;1.0;4;CL04619
+gid://shopify/ProductVariant/46355636224295;CL04621;M;2700.0;2700.0;7;gid://shopify/Product/8577853980967;Colar Mare - M | Prata com Ouro Amarelo 18K;7.0;1.0;3;CL04621
+gid://shopify/ProductVariant/46355638059303;CL04622;G;3500.0;3500.0;17;gid://shopify/Product/8577854243111;Colar Mare - G | Prata com Ouro Amarelo 18K;17.0;1.0;3;CL04622
+gid://shopify/ProductVariant/46355641073959;CL04631;Default Title;8700.0;8700.0;6;gid://shopify/Product/8577854800167;Colar MARE Maxi | Prata com Ouro Amarelo 18K;6.0;1.0;3;CL04631
+gid://shopify/ProductVariant/46355645202727;PI01495;Default Title;980.0;980.0;6;gid://shopify/Product/8577855422759;Piercing Mare | Prata com Ouro Amarelo 18K;6.0;1.0;3;PI01495
+gid://shopify/ProductVariant/46355669713191;PI01496;Default Title;1300.0;1300.0;7;gid://shopify/Product/8577858339111;Piercing Mare | Prata com Ouro Amarelo 18K e Madrepérolas;7.0;1.0;5;PI01496
+gid://shopify/ProductVariant/46355681050919;BR06489T;Default Title;13900.0;9800.0;1;gid://shopify/Product/8577859879207;Brinco Dolce | Ouro Amarelo 18K e Quartzo;1.0;1.0;3;BR06489T
+gid://shopify/ProductVariant/46355686621479;BR06497T;Default Title;21900.0;15900.0;6;gid://shopify/Product/8577860796711;Brinco Vita | Ouro Amarelo 18K com Turquesa e Diamantes;6.0;1.0;3;BR06497T
+gid://shopify/ProductVariant/46355690520871;BR06503T;Default Title;23900.0;20500.0;1;gid://shopify/Product/8577861583143;Brinco Duo Dolce | Ouro Rosa 18K e Opalas;1.0;1.0;3;BR06503T
+gid://shopify/ProductVariant/46355691143463;CO01329;Default Title;11500.0;8800.0;6;gid://shopify/Product/8577861714215;Corrente Dolce Vita | Ouro Amarelo 18K;6.0;1.0;2;CO01329
+gid://shopify/ProductVariant/46355691897127;CO01328;Default Title;11500.0;8800.0;6;gid://shopify/Product/8577861943591;Corrente Dolce Vita | Ouro Rosa 18K;6.0;1.0;2;CO01328
+gid://shopify/ProductVariant/46355693273383;CO01330;Default Title;13900.0;11000.0;8;gid://shopify/Product/8577862140199;Corrente Dolce Vita | Ouro Rosa 18K;8.0;1.0;2;CO01330
+gid://shopify/ProductVariant/46355694420263;PI01473;Default Title;16500.0;13800.0;1;gid://shopify/Product/8577862336807;Pingente Dolce Vita | Ouro Amarelo 18K com Lápis Lazuli e Diamantes;1.0;1.0;3;PI01473
+gid://shopify/ProductVariant/46355695042855;PI01474;Default Title;16500.0;13800.0;6;gid://shopify/Product/8577862467879;Pingente Dolce Vita | Ouro Amarelo 18K com Ágata e Diamantes;6.0;1.0;3;PI01474
+gid://shopify/ProductVariant/46355696353575;PI01475;Default Title;16500.0;13800.0;6;gid://shopify/Product/8577862664487;Pingente Dolce Vita | Ouro Amarelo 18K com Malaquita e Diamantes;6.0;1.0;3;PI01475
+gid://shopify/ProductVariant/46355699237159;PI01479;Default Title;11550.0;16500.0;6;gid://shopify/Product/8577863024935;Pingente Dolce Vita | Ouro Amarelo 18K com Ágata e Diamantes;6.0;1.0;3;PI01479
+gid://shopify/ProductVariant/46355700482343;PI01480;Default Title;9730.0;13900.0;1;gid://shopify/Product/8577863254311;Pingente Dolce Vita | Ouro Amarelo 18K e Lápis Lazuli;1.0;1.0;3;PI01480
+gid://shopify/ProductVariant/46355702841639;PI01486;Default Title;12500.0;10500.0;6;gid://shopify/Product/8577863581991;Pingente Dolce Vita | Ouro Amarelo 18K e Ágata;6.0;1.0;2;PI01486
+gid://shopify/ProductVariant/46356154155303;CL04313;Default Title;3500.0;3500.0;9;gid://shopify/Product/8577922335015;Colar JV MAN II De Prata Com Ouro Branco;9.0;1.0;2;CL04313
+gid://shopify/ProductVariant/46356154417447;CO01305;Default Title;1550.0;1550.0;10;gid://shopify/Product/8577922531623;Corrente JV MAN II De Prata Com Ródio Negro;10.0;1.0;2;CO01305
+gid://shopify/ProductVariant/46356154482983;CO01308;Default Title;1550.0;1550.0;10;gid://shopify/Product/8577922564391;Corrente JV MAN II De Prata Com Ouro Branco;10.0;1.0;2;CO01308
+gid://shopify/ProductVariant/46356154614055;PI01321;Default Title;1800.0;1800.0;8;gid://shopify/Product/8577922662695;Pingente JV MAN II De Prata Com Ródio Negro E Diamante Negro;8.0;1.0;2;PI01321
+gid://shopify/ProductVariant/46356154712359;PI01330;Default Title;3200.0;3200.0;6;gid://shopify/Product/8577922728231;Pingente JV MAN II De Prata Com Ródio Negro E Diamante Negro;6.0;1.0;2;PI01330
+gid://shopify/ProductVariant/46356157727015;PI01320;Default Title;1980.0;1980.0;7;gid://shopify/Product/8577922957607;Pingente JV MAN II De Prata Com Ródio Negro E Esmeralda;7.0;1.0;2;PI01320
+gid://shopify/ProductVariant/46356164804903;PI01331;Default Title;950.0;950.0;7;gid://shopify/Product/8577923907879;Pingente JV MAN II De Prata Com Ródio Negro;7.0;1.0;3;PI01331
+gid://shopify/ProductVariant/46356167262503;PU01853T;M;6500.0;6500.0;6;gid://shopify/Product/8577924268327;Pulseira JV MAN II De Prata Com Ródio Negro E Diamante Negro;11.0;2.0;2;PU01853T
+gid://shopify/ProductVariant/46356170703143;PU01852T;P;6500.0;6500.0;5;gid://shopify/Product/8577925054759;Pulseira JV MAN II De Prata Com Ródio Negro;11.0;2.0;1;PU01852T
+gid://shopify/ProductVariant/46356181352743;PU01862T;PP;2700.0;2700.0;1;gid://shopify/Product/8577926824231;Pulseira JV MAN II De Prata Com Ródio Negro;1.0;1.0;0;PU01862T
+gid://shopify/ProductVariant/46356183122215;PU01868T;P;2900.0;2900.0;7;gid://shopify/Product/8577927053607;Pulseira JV MAN II De Prata Com Ródio Negro;11.0;3.0;3;PU01868T
+gid://shopify/ProductVariant/46356188561703;PU01873T;P;2900.0;2900.0;5;gid://shopify/Product/8577927676199;Pulseira JV MAN II De Prata Com Ouro Branco;6.0;2.0;3;PU01873T
+gid://shopify/ProductVariant/46356210614567;PU01855T;P;1590.0;1590.0;6;gid://shopify/Product/8577930985767;Pulseira JV MAN II De Prata Com Ródio Negro;28.0;4.0;2;PU01855T
+gid://shopify/ProductVariant/46356211204391;PU01858T;P;1590.0;1590.0;6;gid://shopify/Product/8577931280679;Pulseira JV MAN II De Prata Com Ouro Branco;26.0;4.0;2;PU01858T
+gid://shopify/ProductVariant/46356289356071;PU01900T;P;1590.0;1590.0;6;gid://shopify/Product/8577941307687;Pulseira JV MAN II De Prata Com Ródio Negro Fosco;23.0;4.0;1;PU01900T
+gid://shopify/ProductVariant/46356295876903;PU01904T;P;1590.0;1590.0;6;gid://shopify/Product/8577942192423;Pulseira JV MAN II De Prata Com Ouro Branco Fosco;22.0;4.0;1;PU01904T
+gid://shopify/ProductVariant/46356299809063;PU01885T;P;1890.0;2700.0;0;gid://shopify/Product/8577943175463;Pulseira JV MAN II De Prata Com Ouro Branco Fosco;14.0;4.0;2;PU01885T
+gid://shopify/ProductVariant/46356303970599;PU01890T;GG;1890.0;2700.0;5;gid://shopify/Product/8577943830823;Pulseira JV MAN II De Prata Com Ródio Negro Fosco;22.0;4.0;1;PU01890T
+gid://shopify/ProductVariant/46356305084711;PU01892T;P;2900.0;2900.0;7;gid://shopify/Product/8577943961895;Pulseira JV MAN II De Prata Com Ródio Negro Fosco;7.0;1.0;2;PU01892T
+gid://shopify/ProductVariant/46356306788647;PU01893T;P;2900.0;2900.0;4;gid://shopify/Product/8577944191271;Pulseira JV MAN II De Prata Com Ouro Branco Fosco;4.0;1.0;2;PU01893T
+gid://shopify/ProductVariant/46356311638311;PU01909T;M;6500.0;5900.0;5;gid://shopify/Product/8577944781095;Pulseira JV MAN II De Prata Com Ródio Negro Fosco E Diamante Negro;22.0;4.0;1;PU01909T
+gid://shopify/ProductVariant/46356739948839;BR06212T;Default Title;1600.0;1600.0;11;gid://shopify/Product/8577997570343;Brinco Mini Argola Rock | Prata com Ouro Amarelo 18K;11.0;1.0;5;BR06212T
+gid://shopify/ProductVariant/46356741456167;BR06209T;Default Title;2100.0;2100.0;11;gid://shopify/Product/8577997734183;Brinco Ear hook Rock | Prata com Ouro Amarelo 18K;11.0;1.0;5;BR06209T
+gid://shopify/ProductVariant/46356780319015;BR06207T;Default Title;3200.0;3200.0;7;gid://shopify/Product/8578001436967;Brinco Dois Elos Rock Chain | Prata com Ouro Amarelo 18K;7.0;1.0;5;BR06207T
+gid://shopify/ProductVariant/46356781859111;CL04525;Default Title;8900.0;8900.0;7;gid://shopify/Product/8578001633575;Colar Rock Chain | Prata com Ouro Amarelo 18K;7.0;1.0;4;CL04525
+gid://shopify/ProductVariant/46356783464743;PI01383;Default Title;1100.0;1100.0;8;gid://shopify/Product/8578001797415;Piercing Rock | Prata Com Ouro Amarelo 18K;8.0;1.0;4;PI01383
+gid://shopify/ProductVariant/46356804993319;PI01380;Default Title;450.0;450.0;9;gid://shopify/Product/8578005106983;Clip Rock | Prata Com Ouro Amarelo 18K;9.0;1.0;4;PI01380
+gid://shopify/ProductVariant/46356807024935;PU02014T;P;2800.0;2800.0;8;gid://shopify/Product/8578005369127;Bracelete Rock | Prata com Ouro Amarelo 18K;21.0;3.0;5;PU02014T
+gid://shopify/ProductVariant/46356811415847;PU02067T;P;2800.0;2800.0;5;gid://shopify/Product/8578005827879;Bracelete Rock | Prata com Ródio Negro;18.0;3.0;3;PU02067T
+gid://shopify/ProductVariant/46356815282471;PU02007T;P;5100.0;5100.0;6;gid://shopify/Product/8578006384935;Pulseira Rock Chain | Prata com Ouro Amarelo 18K;19.0;3.0;4;PU02007T
+gid://shopify/ProductVariant/46356881801511;AB01011;Default Title;1100.0;;7;gid://shopify/Product/8578013233447;ABOTUADURA JV MAN | PRATA COM OURO BRANCO 18K;7.0;1.0;2;AB01011
+gid://shopify/ProductVariant/46356883669287;CL01134;P;9900.0;8400.0;7;gid://shopify/Product/8578013364519;Colar JV MAN De Ouro Branco 18K Com Ródio Negro E Diamante Negro - P;7.0;1.0;2;CL01134
+gid://shopify/ProductVariant/46356887142695;CL01116;Default Title;4100.0;4100.0;10;gid://shopify/Product/8578013757735;Colar JV MAN De Prata Com Ródio Negro E Diamante Negro;10.0;1.0;3;CL01116
+gid://shopify/ProductVariant/46357420278055;CO0935A;B;2100.0;2100.0;0;gid://shopify/Product/8578165080359;Pingente Letra De Ouro Amarelo 18K E Diamante;2.0;8.0;0;CO0935A
+gid://shopify/ProductVariant/46357420736807;CO0934B;A;1900.0;1900.0;0;gid://shopify/Product/8578165244199;Pingente Letra De Ouro Branco 18K E Diamante;5.0;23.0;0;CO0934B
+gid://shopify/ProductVariant/46358265463079;PI01428;A;1700.0;1400.0;10;gid://shopify/Product/8578290483495;Pingente Letra Rock Para Colar | Prata Com Ouro Amarelo 18K e Diamantes;154.0;26.0;29;PI01428
+gid://shopify/ProductVariant/46358387949863;PI01149;A;1000.0;750.0;7;gid://shopify/Product/8578318860583;Pingente Letra Pop Para Colar - M | Prata Com Ouro Amarelo 18K;214.0;26.0;27;PI01149
+gid://shopify/ProductVariant/46358389227815;PI01098;A;1000.0;750.0;12;gid://shopify/Product/8578319089959;Pingente Letra Pop para Brinco | Prata com Ouro Amarelo 18K;249.0;26.0;28;PI01098
+gid://shopify/ProductVariant/46358393225511;PI01072;A;1200.0;900.0;8;gid://shopify/Product/8578319286567;Pingente Letra Pop Para Colar - G | Prata Com Ouro Amarelo 18K;218.0;26.0;28;PI01072
+gid://shopify/ProductVariant/46358729228583;CL04548;P;6700.0;6700.0;1;gid://shopify/Product/8578411102503;Colar Black Leopardo | Prata com Ródio Negro;6.0;3.0;2;CL04548
+gid://shopify/ProductVariant/46358730375463;PU02039T;PP;2450.0;3500.0;0;gid://shopify/Product/8578411659559;Pulseira Black Leopardo | Prata com Ródio Negro;4.0;3.0;3;PU02039T
+gid://shopify/ProductVariant/46358753411367;PU02080T;P;2800.0;2800.0;6;gid://shopify/Product/8578425356583;Pulseira Mare | Prata com Ouro Amarelo 18K;19.0;3.0;4;PU02080T
+gid://shopify/ProductVariant/46358760849703;PU02077T;P;4900.0;4900.0;11;gid://shopify/Product/8578429944103;Cuff Mare Maxi | Prata com Ouro Amarelo 18K;29.0;3.0;4;PU02077T
+gid://shopify/ProductVariant/46358771466535;PU01729T;P;3900.0;3900.0;5;gid://shopify/Product/8578434957607;Pulseira Riviera De Prata Com Ouro Amarelo;16.0;3.0;2;PU01729T
+gid://shopify/ProductVariant/46358773203239;PU01735T;P;2150.0;2150.0;6;gid://shopify/Product/8578435481895;Pulseira Riviera De Prata Com Ouro Amarelo;20.0;3.0;3;PU01735T
+gid://shopify/ProductVariant/46358778642727;PU01937T;P;2200.0;2200.0;9;gid://shopify/Product/8578438136103;Pulseira Pop Chain De Prata Com Ouro Amarelo;15.0;2.0;3;PU01937T
+gid://shopify/ProductVariant/46358779953447;PU01938T;P;1950.0;1950.0;4;gid://shopify/Product/8578438824231;Pulseira Pop Chain De Prata Com Ródio Negro;4.0;2.0;3;PU01938T
+gid://shopify/ProductVariant/46358793257255;CL04478;P;6700.0;6700.0;7;gid://shopify/Product/8578445705511;Colar Leopardo De Prata Com Ouro Amarelo;18.0;4.0;6;CL04478
+gid://shopify/ProductVariant/46358793847079;PU01965T;P;3500.0;3500.0;5;gid://shopify/Product/8578446229799;Pulseira Leopardo De Prata Com Ouro Amarelo;29.0;4.0;5;PU01965T
+gid://shopify/ProductVariant/46358798074151;PU01712T;P;38000.0;32000.0;0;gid://shopify/Product/8578448916775;Pulseira Voyeur De Ouro Branco 18K E Diamante;10.0;3.0;2;PU01712T
+gid://shopify/ProductVariant/46390856548647;PI01071;Default Title;580.0;580.0;8;gid://shopify/Product/8582010962215;Pingente Pop De Prata Com Ouro Amarelo;8.0;1.0;2;PI01071
+gid://shopify/ProductVariant/46390856712487;PI01125;G;980.0;980.0;2;gid://shopify/Product/8582011060519;Pingente Pop Beijo - G | Prata com Ouro Amarelo 18K;2.0;1.0;3;PI01125
+gid://shopify/ProductVariant/46390856843559;PI01127;G;980.0;980.0;3;gid://shopify/Product/8582011158823;Pingente Pop Sorriso - G | Prata com Ouro Amarelo 18K;3.0;1.0;3;PI01127
+gid://shopify/ProductVariant/46390856974631;PI01133;P;650.0;650.0;20;gid://shopify/Product/8582011289895;Pingente Pop Sorriso - P | Prata Com Ouro Amarelo 18K;20.0;1.0;3;PI01133
+gid://shopify/ProductVariant/46390857072935;PI01134;P;850.0;850.0;1;gid://shopify/Product/8582011355431;Pingente Pop Coração - P | Prata com Ouro Amarelo 18K;1.0;1.0;3;PI01134
+gid://shopify/ProductVariant/46390858055975;PI01136;Default Title;700.0;1000.0;4;gid://shopify/Product/8582011453735;Pingente Pop | Prata com Ouro Amarelo 18K;4.0;1.0;3;PI01136
+gid://shopify/ProductVariant/46390858350887;PI01138;Default Title;650.0;650.0;1;gid://shopify/Product/8582011519271;Pingente Pop Beijo De Prata Com Ouro Amarelo;1.0;1.0;0;PI01138
+gid://shopify/ProductVariant/46390860906791;PI01139;Default Title;650.0;650.0;8;gid://shopify/Product/8582011650343;Pingente Pop óculos De Prata Com Ouro Amarelo;8.0;1.0;0;PI01139
+gid://shopify/ProductVariant/46390861005095;PI01141;Default Title;850.0;850.0;6;gid://shopify/Product/8582011715879;Pingente Pop De Prata Com Ouro Amarelo;6.0;1.0;0;PI01141
+gid://shopify/ProductVariant/46390876602663;PI01296;Default Title;1000.0;750.0;6;gid://shopify/Product/8582014894375;Pingente Pop | Prata Com Ouro Amarelo 18K;6.0;1.0;0;PI01296
+gid://shopify/ProductVariant/46393437094183;AN02949-10;10;21500.0;17000.0;5;gid://shopify/Product/8582654296359;ANEL 15 ANOS | OURO BRANCO 18K COM RÓDIO NEGRO E DIAMANTES;66.0;13.0;3;AN02949
+gid://shopify/ProductVariant/46393449120039;AN03073-10;10;1100.0;1100.0;5;gid://shopify/Product/8582656426279;Anel Chain |  Prata Com Ouro Amarelo 18k;73.0;13.0;3;AN03073
+gid://shopify/ProductVariant/46393449939239;AN03074-10;10;1100.0;1100.0;5;gid://shopify/Product/8582656590119;Anel Chain | Prata Com Ródio Negro;68.0;13.0;3;AN03074
+gid://shopify/ProductVariant/46393450594599;AL00031-10;10;4500.0;3100.0;5;gid://shopify/Product/8582656655655;ALIANÇA QUADRADA | OURO AMARELO 18K, 2MM;68.0;13.0;2;AL00031
+gid://shopify/ProductVariant/46393451315495;AL00037-10;10;6500.0;4500.0;5;gid://shopify/Product/8582656786727;ALIANÇA QUADRADA | OURO AMARELO 18K, 3MM;67.0;13.0;3;AL00037
+gid://shopify/ProductVariant/46393451741479;AL0127-10;10;3900.0;2600.0;5;gid://shopify/Product/8582656819495;ALIANÇA MEIA CANA | OURO AMARELO 18K, 2MM;67.0;13.0;2;AL0127
+gid://shopify/ProductVariant/46393452626215;AL0129-10;10;5500.0;3800.0;5;gid://shopify/Product/8582657016103;ALIANÇA MEIA CANA | OURO AMARELO 18K, 3MM;67.0;13.0;2;AL0129
+gid://shopify/ProductVariant/46393453248807;AL0131-10;10;7500.0;5300.0;5;gid://shopify/Product/8582657147175;ALIANÇA MEIA CANA | OURO AMARELO 18K, 4MM;69.0;13.0;3;AL0131
+gid://shopify/ProductVariant/46393454068007;AL00033-10;10;4500.0;3100.0;5;gid://shopify/Product/8582657311015;ALIANÇA QUADRADA | OURO BRANCO 18K, 2MM;70.0;13.0;2;AL00033
+gid://shopify/ProductVariant/46393454723367;AL0119-10;10;3900.0;2600.0;5;gid://shopify/Product/8582657442087;ALIANÇA MEIA CANA | OURO BRANCO 18K, 2MM;69.0;13.0;1;AL0119
+gid://shopify/ProductVariant/46393455771943;AL0121-10;10;5500.0;3800.0;5;gid://shopify/Product/8582657573159;ALIANÇA MEIA CANA | OURO BRANCO 18K, 3MM;69.0;13.0;3;AL0121
+gid://shopify/ProductVariant/46393456623911;AL0123-10;10;7500.0;5300.0;5;gid://shopify/Product/8582657736999;ALIANÇA MEIA CANA | OURO BRANCO 18K, 4MM;68.0;13.0;2;AL0123
+gid://shopify/ProductVariant/46393457836327;AL00042-10;10;6500.0;4500.0;5;gid://shopify/Product/8582657900839;ALIANÇA QUADRADA | OURO ROSA 18K, 3MM;66.0;13.0;2;AL00042
+gid://shopify/ProductVariant/46393458458919;AL00049-10;10;4500.0;3100.0;5;gid://shopify/Product/8582657966375;ALIANÇA QUADRADA | OURO ROSA 18K, 2MM;69.0;13.0;2;AL00049
+gid://shopify/ProductVariant/46393459015975;AL00069-10;10;3900.0;2600.0;5;gid://shopify/Product/8582658031911;ALIANÇA MEIA CANA | OURO ROSA 18K, 2MM;69.0;13.0;3;AL00069
+gid://shopify/ProductVariant/46393460621607;AN03191-10;10;8900.0;7700.0;5;gid://shopify/Product/8582658294055;Anel Deco 2019 | Ouro Amarelo 18K COM RÓDIO NEGRO E DIAMANTES;66.0;13.0;2;AN03191
+gid://shopify/ProductVariant/46393461080359;AN03190-10;10;10500.0;8300.0;5;gid://shopify/Product/8582658359591;Anel Deco 2019 | Ouro Branco 18K Com Ródio Negro E Diamantes;66.0;13.0;2;AN03190
+gid://shopify/ProductVariant/46393469305127;AN03565-10;10;15500.0;10200.0;5;gid://shopify/Product/8582659309863;Anel Dolce Vita | Ouro Amarelo 18K com Turquesa;66.0;13.0;3;AN03565
+gid://shopify/ProductVariant/46393469993255;AN03566-10;10;12900.0;9200.0;5;gid://shopify/Product/8582659506471;Anel Dolce Vita | Ouro Amarelo 18K com Ágata;66.0;13.0;3;AN03566
+gid://shopify/ProductVariant/46393473073447;AN03561-10;10;10900.0;9200.0;0;gid://shopify/Product/8582660129063;Anel Dolce Vita | Ouro Rosa 18K com Opala;1.0;13.0;3;AN03561
+gid://shopify/ProductVariant/46393474810151;AN0793-10;10;9500.0;5500.0;5;gid://shopify/Product/8582660292903;Anel Fetiche | Ouro Amarelo 18K;68.0;13.0;3;AN0793
+gid://shopify/ProductVariant/46393475334439;AN01150-10;10;9500.0;5500.0;5;gid://shopify/Product/8582660358439;Anel Fetiche | Ouro Branco 18K Com Ródio Negro;67.0;13.0;2;AN01150
+gid://shopify/ProductVariant/46393475825959;AN0792-10;10;9500.0;5500.0;5;gid://shopify/Product/8582660456743;Anel Fetiche | Ouro Branco 18K;67.0;13.0;3;AN0792
+gid://shopify/ProductVariant/46393476874535;AN0791-10;10;9500.0;5500.0;5;gid://shopify/Product/8582660587815;Anel Fetiche | Ouro Rosa 18K;67.0;13.0;3;AN0791
+gid://shopify/ProductVariant/46393480806695;AN03305-10;10;4900.0;3200.0;5;gid://shopify/Product/8582660751655;Anel First Diamond | Ouro Branco 18K E Diamante;66.0;13.0;2;AN03305
+gid://shopify/ProductVariant/46393482543399;AN03026-10;10;7500.0;6500.0;5;gid://shopify/Product/8582660882727;Anel Lifestyle | Ouro Branco 18K Com Ródio Negro, Diamantes E Esmeralda;66.0;13.0;2;AN03026
+gid://shopify/ProductVariant/46393486115111;AN03031-10;10;26500.0;17000.0;5;gid://shopify/Product/8582661308711;Anel Lifestyle | Ouro Branco 18K E Diamantes;66.0;13.0;2;AN03031
+gid://shopify/ProductVariant/46393487687975;AN02824-10;10;11500.0;9800.0;5;gid://shopify/Product/8582661472551;Anel Love Ny | Ouro Branco 18K E Diamantes;66.0;13.0;3;AN02824
+gid://shopify/ProductVariant/46393489260839;AN03585-10;10;1500.0;1500.0;5;gid://shopify/Product/8582661734695;Anel Mare | Prata com Ouro Amarelo 18K e Pérola;71.0;13.0;3;AN03585
+gid://shopify/ProductVariant/46393489785127;AN03586-10;10;2100.0;2100.0;5;gid://shopify/Product/8582661865767;Anel Mare | Prata com Ouro Amarelo 18K;72.0;13.0;3;AN03586
+gid://shopify/ProductVariant/46393490407719;AN01604-10;10;6500.0;3500.0;5;gid://shopify/Product/8582661996839;Anel Namo 2012 | Ouro Branco 18K Com Ródio Negro E Diamantes;66.0;13.0;2;AN01604
+gid://shopify/ProductVariant/46393491620135;AN01606-10;10;6500.0;3500.0;5;gid://shopify/Product/8582662226215;Anel Namo 2012 | Ouro Rosa 18K E Diamantes;66.0;13.0;2;AN01606
+gid://shopify/ProductVariant/46393492177191;AN01607-10;10;6500.0;3500.0;5;gid://shopify/Product/8582662324519;Anel Namo 2012 | Ouro Amarelo 18K E Diamantes;68.0;13.0;2;AN01607
+gid://shopify/ProductVariant/46393492635943;AN01611-10;10;3600.0;2500.0;5;gid://shopify/Product/8582662390055;Anel Namorados 2012 | Ouro Amarelo 18K;67.0;13.0;2;AN01611
+gid://shopify/ProductVariant/46393493717287;AN01609-10;10;3600.0;2500.0;5;gid://shopify/Product/8582662521127;Anel Namo 2012 | Ouro Branco 18K;68.0;13.0;2;AN01609
+gid://shopify/ProductVariant/46393494339879;AN01610-10;10;3600.0;2500.0;5;gid://shopify/Product/8582662619431;Anel Namo 2012 | Ouro Rosa 18K;66.0;13.0;2;AN01610
+gid://shopify/ProductVariant/46393495159079;AN02506-10;10;3200.0;3200.0;5;gid://shopify/Product/8582662816039;Anel Orquidea | Prata Com Ouro Rosa E Diamante;69.0;13.0;3;AN02506
+gid://shopify/ProductVariant/46393495879975;AN02505-10;10;2850.0;2850.0;5;gid://shopify/Product/8582663078183;Anel Orquídea | Prata Com Ródio Negro E Diamante.;69.0;13.0;2;AN02505
+gid://shopify/ProductVariant/46393496928551;AN03360-10;10;1100.0;1100.0;5;gid://shopify/Product/8582663176487;Anel Pop Chain | Prata Com Ouro Amarelo 18k;74.0;13.0;2;AN03360
+gid://shopify/ProductVariant/46393498042663;AN03361-10;10;950.0;950.0;5;gid://shopify/Product/8582663340327;Anel Pop Chain | Prata Com Ródio Negro;75.0;13.0;2;AN03361
+gid://shopify/ProductVariant/46393500631335;AN03404-10;10;9900.0;8500.0;5;gid://shopify/Product/8582663569703;Anel Rock Star - M | Ouro Branco 18K com Ródio Negro, Diamantes e Esmeralda;66.0;13.0;2;AN03404
+gid://shopify/ProductVariant/46393508299047;AN03400-10;10;5500.0;4600.0;5;gid://shopify/Product/8582664913191;Anel Rock Star - P | Ouro Branco 18K com Ródio Negro e Diamante Negros;67.0;13.0;2;AN03400
+gid://shopify/ProductVariant/46393509282087;AN03401-10;10;9500.0;8100.0;5;gid://shopify/Product/8582665077031;Anel Rock Star - P | Ouro Branco 18K com Ródio Negro e Esmeraldas;66.0;13.0;2;AN03401
+gid://shopify/ProductVariant/46393510396199;AN03403-10;10;7500.0;6500.0;5;gid://shopify/Product/8582665371943;Anel Rock Star - P | Ouro Branco 18K com Ródio Negro e Safira;67.0;13.0;2;AN03403
+gid://shopify/ProductVariant/46393511248167;AN06195-10;10;7500.0;6500.0;5;gid://shopify/Product/8582665437479;Anel Rock Star | Ouro Branco 18K com Ródio Negro e Diamantes;66.0;13.0;2;AN06195
+gid://shopify/ProductVariant/46393512657191;AN03395-10;10;8900.0;7500.0;5;gid://shopify/Product/8582665503015;Anel Rock Star | Ouro Branco 18K e Diamantes;67.0;13.0;3;AN03395
+gid://shopify/ProductVariant/46393513181479;AN03245-10;10;2400.0;2400.0;5;gid://shopify/Product/8582665568551;Anel Rock&Hot | Prata Com Ouro Amarelo 18k E Ágata negra;67.0;13.0;3;AN03245
+gid://shopify/ProductVariant/46393514197287;AN01867-10;10;3900.0;3200.0;5;gid://shopify/Product/8582665699623;Anel Savage Solitário | Ouro Branco 18K Com Ródio Negro E Safira;66.0;13.0;2;AN01867
+gid://shopify/ProductVariant/46393514721575;AN01868-10;10;3900.0;3200.0;5;gid://shopify/Product/8582665830695;Anel Savage Solitário | Ouro Branco 18K Com Ródio Negro E Esmeralda;66.0;13.0;2;AN01868
+gid://shopify/ProductVariant/46393515180327;AN01869-10;10;5500.0;4500.0;5;gid://shopify/Product/8582665896231;Anel Savage Solitário | Ouro Branco 18K Com Ródio Negro E Diamante;66.0;13.0;2;AN01869
+gid://shopify/ProductVariant/46393516065063;AN01864-10;10;5900.0;4900.0;5;gid://shopify/Product/8582665961767;Anel Savage Solitário | Ouro Branco 18K E Diamante Solitário;67.0;13.0;3;AN01864
+gid://shopify/ProductVariant/46393516523815;AN03307-10;10;13900.0;9500.0;5;gid://shopify/Product/8582665994535;Anel Savage Solitário | Ouro Branco 18K E Diamante;66.0;13.0;3;AN03307
+gid://shopify/ProductVariant/46393517015335;AN03368-10;10;9500.0;5700.0;5;gid://shopify/Product/8582666092839;Anel Savage De Ouro Branco 18K E Diamante Solitário;66.0;13.0;3;AN03368
+gid://shopify/ProductVariant/46393517441319;AN01870-10;10;5500.0;4500.0;5;gid://shopify/Product/8582666125607;Anel Savage Solitário | Ouro Rosa 18K E Diamante;66.0;13.0;1;AN01870
+gid://shopify/ProductVariant/46393519178023;AN01748-10;10;8900.0;6200.0;5;gid://shopify/Product/8582666322215;Anel Universo | Ouro Branco 18K Com Ródio Negro E Rubis;66.0;13.0;3;AN01748
+gid://shopify/ProductVariant/46393520423207;AN01865-10;10;11500.0;7500.0;5;gid://shopify/Product/8582666649895;Anel Universo | Ouro Branco 18K Com Ródio Negro E Diamantes Negros;66.0;13.0;3;AN01865
+gid://shopify/ProductVariant/46393521013031;AN02038-10;10;17500.0;13500.0;5;gid://shopify/Product/8582666846503;Anel Universo | Ouro Branco 18K Com Ródio Negro E Diamantes;66.0;13.0;3;AN02038
+gid://shopify/ProductVariant/46393521963303;AN03175-10;10;1100.0;1100.0;5;gid://shopify/Product/8582667010343;Anel White chain | Prata Com Ouro Branco 18k;65.0;14.0;2;AN03175
+gid://shopify/ProductVariant/46393547522343;AN03430-10;10;20500.0;20500.0;0;gid://shopify/Product/8582669140263;Anel Rock Star | Ouro Branco 18K E Kunzita E Diamante;1.0;13.0;0;AN03430
+gid://shopify/ProductVariant/46496815612199;CL03749;P;21000.0;16000.0;5;gid://shopify/Product/8608792969511;Colar Love Ny De Ouro Amarelo 18K E Diamante - P;10.0;3.0;2;CL03749
+gid://shopify/ProductVariant/46496821412135;CO01292;Default Title;6500.0;4200.0;7;gid://shopify/Product/8608793952551;Colar Tlj De Ouro Branco 18K E Diamante;7.0;1.0;0;CO01292
+gid://shopify/ProductVariant/46496821805351;CO00012;Default Title;2500.0;1800.0;3;gid://shopify/Product/8608794247463;Corrente Clássico De Ouro Branco 18K Com Rodio Negro;3.0;1.0;0;CO00012
+gid://shopify/ProductVariant/46496823410983;CO0746;Default Title;2500.0;1800.0;2;gid://shopify/Product/8608795033895;Corrente Clássico De Ouro Rosa 18K;2.0;1.0;0;CO0746
+gid://shopify/ProductVariant/46496823574823;CO00021;Default Title;2500.0;1800.0;6;gid://shopify/Product/8608795164967;Corrente Clássico De Ouro Rosa 18K;6.0;1.0;2;CO00021
+gid://shopify/ProductVariant/46496823836967;CO01319;Default Title;2500.0;1800.0;6;gid://shopify/Product/8608795328807;Corrente Clássico De Ouro Branco 18K Com Rodio Negro;6.0;1.0;2;CO01319
+gid://shopify/ProductVariant/46496824131879;CO01321;Default Title;2900.0;2500.0;6;gid://shopify/Product/8608795394343;Corrente Clássico De Ouro Rosa 18K;6.0;1.0;0;CO01321
+gid://shopify/ProductVariant/46506764697895;AN02702-10;10;26500.0;23000.0;5;gid://shopify/Product/8612227383591;Anel Especial De Ouro Branco 18K E Diamante Solitario;67.0;13.0;0;AN02702
+gid://shopify/ProductVariant/46509285310759;AN03188-10;10;41500.0;30500.0;5;gid://shopify/Product/8612628398375;Anel Especial De Ouro Branco 18K E Diamante Solitario;66.0;13.0;0;AN03188
+gid://shopify/ProductVariant/46509292716327;AN03046-10;10;26500.0;19000.0;5;gid://shopify/Product/8612629217575;Anel Lifestyle De Ouro Branco 18K Com Rodio Negro E Diamante;67.0;13.0;0;AN03046
+gid://shopify/ProductVariant/46509294846247;AN03043-10;10;25500.0;18000.0;5;gid://shopify/Product/8612629381415;Anel Lifestyle De Ouro Branco 18K Com Rodio Negro E Diamante;66.0;13.0;0;AN03043
+gid://shopify/ProductVariant/46509297303847;AN02803-10;10;13900.0;12000.0;0;gid://shopify/Product/8612629709095;Anel Maes 2013 De Ouro Branco 18K Com Rodio Negro E Diamante E Safira;1.0;13.0;0;AN02803
+gid://shopify/ProductVariant/46509301301543;AN03088-10;10;16500.0;14000.0;0;gid://shopify/Product/8612630036775;Anel Maes 2013 De Ouro Branco 18K Com Rodio Negro E Diamante E Esmeralda;1.0;13.0;0;AN03088
+gid://shopify/ProductVariant/46509307461927;AN03197-10;10;24500.0;21000.0;0;gid://shopify/Product/8612630397223;Anel Maes 2013 De Ouro Branco 18K Com Rodio Negro E Diamante E Safira;1.0;13.0;0;AN03197
+gid://shopify/ProductVariant/46509308412199;AN03198-10;10;21900.0;19000.0;0;gid://shopify/Product/8612630626599;Anel Maes 2013 De Ouro Branco 18K Com Rodio Negro E Diamante E Safira;1.0;13.0;0;AN03198
+gid://shopify/ProductVariant/46509495910695;AN03500-10;10;55500.0;48000.0;0;gid://shopify/Product/8612659200295;Anel Especial De Ouro Branco 18K E Diamantes Mix;1.0;13.0;0;AN03500
+gid://shopify/ProductVariant/46512701866279;AN03326-10;10;25500.0;21800.0;0;gid://shopify/Product/8613207179559;Anel Maes 2013 De Ouro Branco 18K Com Ródio Negro E Diamante E Safira;1.0;13.0;0;AN03326
+gid://shopify/ProductVariant/46579534528807;BR06621T;Default Title;28900.0;25000.0;6;gid://shopify/Product/8630834725159;Brinco New Vintage Diamond | Ouro Branco 18K com Diamantes;6.0;1.0;4;BR06621T
+gid://shopify/ProductVariant/46579535708455;BR06623T;Default Title;48900.0;42500.0;6;gid://shopify/Product/8630835249447;Brinco Power Fringe New Vintage | Ouro Branco 18K com Diamantes;6.0;1.0;5;BR06623T
+gid://shopify/ProductVariant/46579537084711;BR06625T;Default Title;43500.0;37500.0;6;gid://shopify/Product/8630835773735;Argola Power Fringe New Vintage | Ouro Branco 18K com Diamantes;6.0;1.0;4;BR06625T
+gid://shopify/ProductVariant/46579538297127;BR06628T;M;42900.0;37000.0;6;gid://shopify/Product/8630836298023;Argola Power Diamond - M | Ouro Branco 18K com Diamantes;6.0;1.0;4;BR06628T
+gid://shopify/ProductVariant/46579539312935;BR06632T;Default Title;28900.0;25000.0;6;gid://shopify/Product/8630836789543;Brinco New Vintage Diamond | Ouro Amarelo 18K com Diamantes;6.0;1.0;5;BR06632T
+gid://shopify/ProductVariant/46579540263207;BR06633T;Default Title;48500.0;42000.0;6;gid://shopify/Product/8630837084455;Brinco New Vintage De Ouro Amarelo 18K E Diamante;6.0;1.0;0;BR06633T
+gid://shopify/ProductVariant/46965629616423;BR06642T;Default Title;23500.0;20000.0;1;gid://shopify/Product/8775435616551;Brinco New Vintage De Ouro Amarelo 18K E Diamante;1.0;1.0;0;BR06642T
+gid://shopify/ProductVariant/46965629714727;BR06588T;Default Title;5900.0;4000.0;6;gid://shopify/Product/8775435714855;Brinco Ear Cuff Piscine | Ouro Amarelo 18K;6.0;1.0;1;BR06588T
+gid://shopify/ProductVariant/46965630075175;PI01144;M;750.0;750.0;1;gid://shopify/Product/8775435845927;Pingente Pop De Prata Com Ouro Amarelo - M;1.0;1.0;0;PI01144
+gid://shopify/ProductVariant/46965634564391;BR03068T;Default Title;25500.0;17000.0;6;gid://shopify/Product/8775436861735;Brinco Universo De Ouro Amarelo 18K;6.0;1.0;0;BR03068T
+gid://shopify/ProductVariant/47846948307239;CO01336;Default Title;5500.0;;9;gid://shopify/Product/9055252644135;Corrente Clássico - 70cm | Ouro Branco 18K com Ródio Negro;9.0;1.0;0;CO01336
+gid://shopify/ProductVariant/49152946110759;BR06882T;Default Title;6900.0;;6;gid://shopify/Product/9563526431015;BRINCO BOLD DUPLO MAXI | PRATA COM OURO AMARELO 18K;6.0;1.0;7;BR06882T
+gid://shopify/ProductVariant/49154667249959;BR06879T;Default Title;4200.0;;6;gid://shopify/Product/9564214722855;BRINCO ARGOLA BOLD MAXI | PRATA COM OURO AMARELO 18K;6.0;1.0;5;BR06879T
+gid://shopify/ProductVariant/49163313873191;PU02159T;P;3900.0;;7;gid://shopify/Product/9566443405607;PULSEIRA BOLD | PRATA COM OURO AMARELO 18K;17.0;3.0;6;PU02159T
+gid://shopify/ProductVariant/49203825541415;AN03640-10;10;2100.0;;5;gid://shopify/Product/9564725903655;ANEL ESFERA BOLD | PRATA COM OURO AMARELO 18K;68.0;13.0;3;AN03640

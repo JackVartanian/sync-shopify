@@ -1,0 +1,2 @@
+variant.sku;inventoryItem_id;location_id;location_name;Qty;Metal_Sh;ID_Location;RefId;WarehouseId;WarehouseName;TotalQuantity;_merge;delta
+AN03073-19;gid://shopify/InventoryItem/48444854960423;gid://shopify/Location/88040702247;Iguatemi;1;NAN;AN03073-19-gid://shopify/Location/88040702247;;;;0;left_only;-1
