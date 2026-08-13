@@ -1278,6 +1278,8 @@ def prepareEmEstoque():
     merge = pd.merge(variants, inventory, how='left', left_on='id', right_on='variant.id')
 
     merge['Em estoque'] = True
+    # pandas 2.x nao aceita string em coluna bool; deixa a coluna como object
+    merge['Em estoque'] = merge['Em estoque'].astype(object)
 
     #se a coluna Encomendavel for igual a true e inventoryQuantity maior que 0, colocar em estoque como true
 
